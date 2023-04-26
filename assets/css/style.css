@@ -15,7 +15,21 @@
 /* 4 block end */
 
 /* 5 block */
+.font-regular {
+    font-weight: 100px;
+}
+.font-regular {
+    font-family: 'Lobster', cursive;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 80px;
+    font-weight: 800;
+    line-height: 77.2px;
+    letter-spacing:  -4px;
+}
 
+.margin-20 {
+    margin: right 200px;;
+}
 /* 5 block end */
 
 /* 6 block */
